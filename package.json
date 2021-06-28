@@ -1,0 +1,13 @@
+{
+  "name": "bancor_practice",
+  "version": "0.0.1",
+  "description": "practicing with the Bancor SDK",
+  "main": "index.js",
+  "author": "wschwab",
+  "license": "MIT",
+  "dependencies": {
+    "@bancor/sdk": "^0.2.9",
+    "dotenv": "^8.2.0",
+    "ethers": "^5.1.0"
+  }
+}
